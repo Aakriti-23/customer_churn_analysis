@@ -96,24 +96,24 @@ The landing page. Six KPI cards give an at-a-glance health check of the customer
 ---
 
 ### Page 2 — Churn Analysis
-![Churn Analysis](assets/Dashboard%20churn%20analysis.png)
-![Churn Analysis - Filters](assets/Dashboard%20churn%20analysis-Filter.png)
+<img src="assets/Dashboard%20churn%20analysis.png" width="700"/>
+<img src="assets/Dashboard%20churn%20analysis-Filter.png" width="700"/>
 
 Breaks down predicted churn across four dimensions in a 2×2 grid. The donut chart shows fiber optic customers account for **47%** of predicted churn despite not being the majority segment. The contract bar chart confirms month-to-month holders churn at roughly **2×** the rate of one-year and **4×** the rate of two-year customers. The tenure chart shows churn drops sharply after year two. The payment method chart flags electronic check users as the highest-risk group.
 
 ---
 
 ### Page 3 — Risk Insights
-![Risk Insights](assets/Dashboard%20risk%20insights.png)
-![Risk Insights - Filters](assets/Dashboard%20risk%20insights-Filter.png)
+<img src="assets/Dashboard%20risk%20insights.png" width="700"/>
+<img src="assets/Dashboard%20risk%20insights-Filter.png" width="700"/>
 
 Combines the model's ML output with business context. The summary table breaks tenure, monthly charges, churn probability, and net value by contract type — month-to-month customers represent **$186K** in monthly charges and **$1.14M** in net value at risk. The scatter plot maps tenure against monthly charge groups, with churners (blue) clustered in the high-charge, low-tenure quadrant. The risk band bar chart on the right segments the full customer base into Low, Medium, and High Risk — roughly **1,600 customers** fall in the high-risk band.
 
 ---
 
 ### Page 4 — Business Impact
-![Business Impact](assets/Dashboard%20business%20impact.png)
-![Business Impact - Filters](assets/Dashboard%20business%20impact-Filter.png)
+<img src="assets/Dashboard%20business%20impact.png" width="700"/>
+<img src="assets/Dashboard%20business%20impact-Filter.png" width="700"/>
 
 Translates predictions into financial decisions. The bar chart compares revenue at risk between non-high-risk and high-risk customers, making the case for targeted spend. The scatter plot on the right plots churn probability against monthly charges, colored by actual churn — showing that high-probability churners (dark blue) concentrate in the $80–$120 monthly charge range. The left-side slicers (Contract, Tenure, Internet Service, High Risk, Senior Citizen) let stakeholders drill into any segment and see the financial impact update in real time.
 
