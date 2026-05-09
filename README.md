@@ -88,8 +88,8 @@ The dashboard has four pages connected by a navigation bar. All pages share slic
 ---
 
 ### Page 1 — Executive Overview
-![Executive Overview](assets/Dashboard%20executive%20overview.png)
-![Executive Overview - Filters](assets/Dashboard%20executive%20overview-Filter.png)
+<img src="assets/Dashboard%20executive%20overview.png" width="700"/>
+<img src="assets/Dashboard%20executive%20overview-Filter.png" width="700"/>
 
 The landing page. Six KPI cards give an at-a-glance health check of the customer base under the current filter selection: **Total Customers**, **Actual Churn %**, **Predicted Churn Rate %**, **Potential Revenue Saved**, **Net Value**, and **High Risk Customers**. Designed for leadership — one number per question, no charts needed.
 
